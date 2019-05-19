@@ -1,3 +1,7 @@
+![GitHub issues](https://img.shields.io/github/issues/reangdeba/intern.svg)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/reangdeba/intern.svg)
+![GitHub stars](https://img.shields.io/github/stars/reangdeba/intern.svg?style=social)
+
 # Undergraduate Research Internship Opportunities
 ## Goal
 This repository aims at providing a non-exhaustive list of undergraduate research opportunities **for 
