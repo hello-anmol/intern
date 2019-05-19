@@ -1,6 +1,5 @@
-![GitHub issues](https://img.shields.io/github/issues/reangdeba/intern.svg)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/reangdeba/intern.svg)
-![GitHub stars](https://img.shields.io/github/stars/reangdeba/intern.svg?style=social)
+[![GitHub issues](https://img.shields.io/github/issues/reangdeba/intern.svg)](https://github.com/reangdeba/intern/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/reangdeba/intern.svg)](https://github.com/reangdeba/intern/pulls)
 
 # Undergraduate Research Internship Opportunities
 ## Goal
